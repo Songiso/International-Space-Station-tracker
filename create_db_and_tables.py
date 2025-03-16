@@ -11,7 +11,6 @@ def connect_db():
 def create_database_and_tables():
     conn = connect_db()
     cursor = conn.cursor()
-
     # Create database
     cursor.execute("CREATE DATABASE IF NOT EXISTS iss_tracking")
 
