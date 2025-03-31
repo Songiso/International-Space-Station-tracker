@@ -1,4 +1,4 @@
-# International_Space_Station-tracker
+# International Space Station Tracker
 
 ## Overview
 
