@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to design and implement a data engineering pipeline that tracks the real-time position of the International Space Station (ISS) using geospatial data and visualizes its trajectory on an interactive 3D map. The project will integrate multiple data sources, process the incoming data stream, and present the ISS’s position in an intuitive, visually compelling format.
+This project aims to design and implement a data pipeline that tracks the real-time position of the International Space Station (ISS) using geospatial data and visualizes its trajectory on an interactive 3D map. The project will integrate multiple data sources, process the incoming data stream, and present the ISS’s position in an intuitive, visually compelling format.
 
 
 ## Objectives:
